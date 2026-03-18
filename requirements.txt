@@ -1,0 +1,23 @@
+# Weather Trend Forecasting — Python 3.12
+# Install: pip install -r requirements.txt
+
+# Core data 
+pandas==2.3.3
+numpy==1.26.4
+
+# Visualisation
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine learning 
+scikit-learn>=1.5.1
+xgboost==3.1.2
+lightgbm==4.6.0
+
+# Statistical modelling 
+statsmodels==0.14.6
+scipy==1.16.3
+
+# Notebook runtime
+jupyter==4.5.1
+ipykernel==7.1.0
