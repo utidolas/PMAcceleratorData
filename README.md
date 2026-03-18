@@ -1,3 +1,5 @@
+# How to RUN
+* Run all the cells in the notebook
 # Forecast future weather trends
 
 **dataset avaiable at: [https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code)**
